@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SoyabeanP
 - 👀 I’m interested in Audio Signal Processing
 - 🌱 I’m currently learning CPP and ASR
-: - 💞️ I’m looking to collaborate on learning TTS together
+- 💞️ We can learn TTS/ASR together
 - 📫 How to reach me [bilibili](https://space.bilibili.com/480578373/)
 
 <!---
